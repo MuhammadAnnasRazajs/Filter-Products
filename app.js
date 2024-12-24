@@ -235,7 +235,7 @@ products.map((item)=>{
 })
 
 function addtocart(){
-    alert("Item has been added successfully! 😍")
+    alert("Item has been added successfully! ")
     console.log("hello world");
 }
 
